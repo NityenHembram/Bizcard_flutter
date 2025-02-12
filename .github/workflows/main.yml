@@ -20,7 +20,7 @@ jobs:
       - name: Set up Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: 'stable' # You can specify another version if needed
+          flutter-version: 3.27.1 # You can specify another version if needed
 
       - name: Run Flutter Clean
         run: flutter clean
