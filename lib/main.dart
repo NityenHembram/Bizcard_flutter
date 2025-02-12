@@ -177,7 +177,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             child: ClipOval(
               child: Image.asset(
-                "assets/profile_image.jpg",
+                "assets/IMG_0072.jpeg",
                 fit: BoxFit.cover,
               ),
             )));
